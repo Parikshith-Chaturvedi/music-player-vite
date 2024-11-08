@@ -49,3 +49,5 @@ export default tseslint.config({
 })
 ```
 # music-player-vite
+Steps
+1 Run npm i to install packages
